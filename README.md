@@ -6,6 +6,7 @@
 .font {
 color: blue;
 font-family: tahoma sans-serif;
+font-size: 18px;
 }
 
 </style>
