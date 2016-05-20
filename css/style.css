@@ -2,3 +2,10 @@ body {
 
 
 }
+
+.bodytext {
+margin:30px;
+border: solid;
+font-family:Tahoma;
+color:pink;
+}
