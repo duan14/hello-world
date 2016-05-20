@@ -2,6 +2,8 @@ body {background-color: yellow;
 }
 
 .bodytext {
-margin:auto 30px auto auto;
+margin:30px;
 border: solid;
+font-family:Tahoma;
+color:pink;
 }
