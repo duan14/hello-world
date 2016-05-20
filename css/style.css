@@ -3,4 +3,5 @@ body {background-color: yellow;
 
 .bodytext {
 margin:auto 30px auto auto;
+border: solid;
 }
